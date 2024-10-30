@@ -1,5 +1,5 @@
 # Hi there 👋
-echo "# tapremaroti87" >> README.md
+echo "# tapremaroti87" >> README.m
 git init
 git add README.md
 git commit -m "first commit"
